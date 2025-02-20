@@ -25,3 +25,4 @@ npm install
 npm run build
 php artisan migrate 
 php artisan serve
+THE SQL FILE FOR THE TABLE IN phpmyadmin IS INCLUDED IN ABOVE FOLDERS 
