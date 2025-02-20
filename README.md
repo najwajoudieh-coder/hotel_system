@@ -1,4 +1,7 @@
 Here are the steps needed to run the project locally :
+
+
+
 using https
 git clone https://github.com/najwajoudieh-coder/hotel_system_new.git
 or using ssh 
